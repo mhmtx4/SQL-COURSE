@@ -6,20 +6,20 @@ Bu açık kaynak ders seti, veritabanı temellerinden başlayarak SQL programlam
 
 ## 📚 Ders Listesi
 
-| No | Konu Başlığı                                               | Dosya Adı                   |
-|----|-------------------------------------------------------------|-----------------------------|
-| 01 | Giriş: VTYS Nedir?                                          | `01-giris.md`               |
-| 02 | Veri ve Bilgi Kavramı                                       | `02-veri-ve-bilgi.md`       |
-| 03 | Veri Modelleri (Hiyerarşik, Ağ, İlişkisel)                  | `03-veri-modelleri.md`      |
-| 04 | Veri Tipleri ve Tablo Elemanları                            | `04-veri-tipleri.md`        |
-| 05 | Veritabanı Tasarımı ve ER Diyagramları                      | `05-veri-tabanı-tasarımı.md`|
-| 06 | Normalizasyon ve Anomaliler                                 | `06-normalizasyon.md`       |
-| 07 | SQL’e Giriş                                                 | `07-sql-giris.md`           |
-| 08 | SQL Komutları I: CREATE, INSERT, UPDATE, DELETE             | `08-sql-komutlari-1.md`     |
-| 09 | SQL Komutları II: SELECT, WHERE, ORDER BY                  | `09-sql-komutlari-2.md`     |
-| 10 | Fonksiyonlar ve GROUP BY                                    | `10-fonksiyonlar.md`        |
-| 11 | JOIN İşlemleri                                              | `11-join-islemleri.md`      |
-| 12 | SQL Yönetim Komutları ve Yetkilendirme                      | `12-yonetim-komutlari.md`   |
+| No | Konu Başlığı                                               | Dosya Adı                                   |
+|----|------------------------------------------------------------|---------------------------------------------|
+| 01 | Giriş: VTYS Nedir?                                         | [`01-giris.md`](./01-giris.md)               |
+| 02 | Veri ve Bilgi Kavramı                                      | [`02-veri-ve-bilgi.md`](./02-veri-ve-bilgi.md)       |
+| 03 | Veri Modelleri (Hiyerarşik, Ağ, İlişkisel)                 | [`03-veri-modelleri.md`](./03-veri-modelleri.md)      |
+| 04 | Veri Tipleri ve Tablo Elemanları                           | [`04-veri-tipleri.md`](./04-veri-tipleri.md)           |
+| 05 | Veritabanı Tasarımı ve ER Diyagramları                     | [`05-veri-tabanı-tasarımı.md`](./05-veri-tabanı-tasarımı.md)|
+| 06 | Normalizasyon ve Anomaliler                                | [`06-normalizasyon.md`](./06-normalizasyon.md)          |
+| 07 | SQL’e Giriş                                                | [`07-sql-giris.md`](./07-sql-giris.md)                   |
+| 08 | SQL Komutları I: CREATE, INSERT, UPDATE, DELETE            | [`08-sql-komutlari-1.md`](./08-sql-komutlari-1.md)      |
+| 09 | SQL Komutları II: SELECT, WHERE, ORDER BY                 | [`09-sql-komutlari-2.md`](./09-sql-komutlari-2.md)      |
+| 10 | Fonksiyonlar ve GROUP BY                                   | [`10-fonksiyonlar.md`](./10-fonksiyonlar.md)             |
+| 11 | JOIN İşlemleri                                             | [`11-join-islemleri.md`](./11-join-islemleri.md)         |
+| 12 | SQL Yönetim Komutları ve Yetkilendirme                     | [`12-yonetim-komutlari.md`](./12-yonetim-komutlari.md)   |
 
 ---
 
@@ -34,7 +34,7 @@ Bu açık kaynak ders seti, veritabanı temellerinden başlayarak SQL programlam
 
 ## 🚀 Nasıl Kullanılır?
 
-1. `01-giris.md` dosyasına tıklıyarak sırayla ilerleyin. Github üzerinden indirmeye gerek kalmadanda verimli bir şekilde repodan faydalanabilirsiniz.
+1. [01-giris.md](./01-giris.md) dosyasına tıklıyarak sırayla ilerleyin. Github üzerinden indirmeye gerek kalmadanda verimli bir şekilde repodan faydalanabilirsiniz.
 
 
 **Veya**
@@ -44,7 +44,7 @@ Bu açık kaynak ders seti, veritabanı temellerinden başlayarak SQL programlam
 git clone https://github.com/kullaniciadi/veritabani-dersler.git
 ```
 2. Markdown destekleyen bir editörde açın (örneğin VSCode, Obsidian, Typora).
-3. `01-giris.md` dosyasından başlayarak sırayla ilerleyin.
+3. [01-giris.md](./01-giris.md) dosyasından başlayarak sırayla ilerleyin.
  
 
 ---
