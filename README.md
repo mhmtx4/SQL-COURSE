@@ -41,7 +41,7 @@ Bu açık kaynak ders seti, veritabanı temellerinden başlayarak SQL programlam
 ---
 1. Bu repoyu klonlayın veya ZIP olarak indirin:
 ```bash
-git clone https://github.com/kullaniciadi/veritabani-dersler.git
+git clone https://github.com/mhmtx4/SQL-COURSE.git
 ```
 2. Markdown destekleyen bir editörde açın (örneğin VSCode, Obsidian, Typora).
 3. [01-giris.md](./01-giris.md) dosyasından başlayarak sırayla ilerleyin.
